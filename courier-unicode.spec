@@ -37,7 +37,7 @@ against the Courier Unicode library.
 
 %files
 %license COPYING
-%doc README NEWS
+%doc README AUTHORS ChangeLog
 
 %files -n %{libname}
 %{_libdir}/libcourier-unicode.so.%{major}*
